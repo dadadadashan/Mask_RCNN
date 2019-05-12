@@ -8,7 +8,7 @@ Written by Waleed Abdulla
 """
 
 import numpy as np
-
+import os
 
 # Base Configuration Class
 # Don't use this class directly. Instead, sub-class it and override
